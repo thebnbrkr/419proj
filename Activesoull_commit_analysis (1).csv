@@ -1,0 +1,201 @@
+sha,author,date,message,hour,day_of_week,day_num,is_weekend,is_late_night,is_after_hours,commit_frequency,date_day,daily_commits,commit_variability,sentiment,sentiment_magnitude,avg_sentiment,prev_sentiment,consecutive_negative,negative_streak,is_near_release,release_commit_density,burnout_risk_score,anomaly,burnout_risk_category
+bf3b92ec450f8712c6faab28c5fb5a7f1a1accc8,Unknown,2024-07-19 09:13:49+00:00,separate mmdet from mmseg,9,Friday,4,FALSE,FALSE,FALSE,1,2024-07-19,1,0,0,0,0,,0,0,TRUE,1,3.6,-1,Moderate
+49387172680c3edf753aa3bfd4ac0a45fdfdde17,activesoull,2024-07-10 11:17:19+00:00,delete,11,Wednesday,2,FALSE,FALSE,FALSE,62,2024-07-10,1,1.503329638,0,0,0.00672043,,0,0,TRUE,0.790322581,2.4,1,Low
+b1203d4bbdd8f7088adde35babbe3795635dc39a,activesoull,2024-07-12 11:22:53+00:00,provide creds dict with non empty strings,11,Friday,4,FALSE,FALSE,FALSE,62,2024-07-12,2,1.503329638,-0.1,0.1,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+e1b51ccf2c5b5ea739476a28f68833254f4ee6d2,activesoull,2024-07-12 15:51:21+00:00,bumb libdeeplake to 0.0.135,15,Friday,4,FALSE,FALSE,FALSE,62,2024-07-12,2,1.503329638,0,0,0.00672043,-0.1,0,0,TRUE,0.790322581,2.4,1,Low
+8c3348fc3fefa9a98e759bc01c97cf986d75ed52,activesoull,2024-07-15 08:37:54+00:00,docs reformat,8,Monday,0,FALSE,FALSE,FALSE,62,2024-07-15,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+7a6ac7030a6b71d05c43f278b7a2f73bd539884d,activesoull,2024-07-17 10:03:54+00:00,remove empty token check,10,Wednesday,2,FALSE,FALSE,FALSE,62,2024-07-17,3,1.503329638,-0.1,0.1,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+45439f2c885da7899781fa2e653e2b2c0fe094aa,activesoull,2024-07-17 10:31:30+00:00,move exception check logic from deeplake to libdeeplake,10,Wednesday,2,FALSE,FALSE,FALSE,62,2024-07-17,3,1.503329638,0,0,0.00672043,-0.1,0,0,TRUE,0.790322581,2.4,1,Low
+ee3b2a6bc34c01dd7ceff042dbd9abbb2fff6b2d,activesoull,2024-07-17 12:01:01+00:00,remove unnacessary functionalities,12,Wednesday,2,FALSE,FALSE,FALSE,62,2024-07-17,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+a52f7d5a419f1b6203d974d159008193f5449222,activesoull,2024-07-18 07:56:38+00:00,fix images tensor name dict,7,Thursday,3,FALSE,FALSE,TRUE,62,2024-07-18,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+b65f2ff9be3dac4ca95a135e7eb2a4cbbc70bf38,activesoull,2024-07-18 09:59:07+00:00,fix linter,9,Thursday,3,FALSE,FALSE,FALSE,62,2024-07-18,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+965c0817a2ee699cacb6ab4dc26370de6c5a0b70,activesoull,2024-07-18 20:15:46+00:00,bump libdeeplake version to 0.0.136,20,Thursday,3,FALSE,FALSE,TRUE,62,2024-07-18,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+642fe87ef6ede006f4e7f0c0c56fe5e9f9022594,activesoull,2024-07-24 14:43:05+00:00,bump libdeeplake version to 0.0.137,14,Wednesday,2,FALSE,FALSE,FALSE,62,2024-07-24,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+c6597d07a895c3fda4c86c598e021c6e1a0af702,activesoull,2024-07-27 17:45:31+00:00,fix get_presigned_url for gcp,17,Saturday,5,TRUE,FALSE,FALSE,62,2024-07-27,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+40d849ebcd1ed11b522eeb09518d857a34d17077,activesoull,2024-07-27 17:49:50+00:00,fix get_presigned_url for gcp,17,Saturday,5,TRUE,FALSE,FALSE,62,2024-07-27,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+f69d55f3b1cdb53bc7e6d4078012d5c94c0ab629,activesoull,2024-07-29 04:54:27+00:00,creds update case handling,4,Monday,0,FALSE,TRUE,TRUE,62,2024-07-29,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,6.8,-1,High
+96d7025cfe93fde660fcd41e5735a242118fc51a,activesoull,2024-07-29 13:13:12+00:00,remove keys,13,Monday,0,FALSE,FALSE,FALSE,62,2024-07-29,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+d5fbbb944ef56a311d91f72057d8ce27cd771599,activesoull,2024-07-30 05:00:18+00:00,add urllib3's SSLError to the retriable errors list,5,Tuesday,1,FALSE,TRUE,TRUE,62,2024-07-30,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4.8,1,Moderate
+2a80a529d35f686d1facc756ca847fe0d9bddede,activesoull,2024-07-30 17:18:15+00:00,bump libdeeplake version to 0.0.138,17,Tuesday,1,FALSE,FALSE,FALSE,62,2024-07-30,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+eba0d948b3dd4d23f4d3431d01024bb81ca8f8c4,activesoull,2024-08-06 09:22:21+00:00,fix linter,9,Tuesday,1,FALSE,FALSE,FALSE,62,2024-08-06,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+cbfcef32b74c70fa25a1f7466c7279a087f5c3f4,activesoull,2024-08-23 16:42:50+00:00,bump libdeeplake version to 0.0.139,16,Friday,4,FALSE,FALSE,FALSE,62,2024-08-23,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+64ad838acd6f5ed2f5a56eb5fa918f49cefbfb58,activesoull,2024-08-24 15:08:03+00:00,bump libdeeplake version to 0.0.139,15,Saturday,5,TRUE,FALSE,FALSE,62,2024-08-24,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,6,-1,Moderate
+0c339d060c0abc5952ce5db7061c242bfdb02815,activesoull,2024-08-26 13:34:33+00:00,Merge branch 'test_ld_139' of github.com:activeloopai/deeplake into ld_139,13,Monday,0,FALSE,FALSE,FALSE,62,2024-08-26,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+34a8280f25fb0cc023b1ecce766cb72e97253613,activesoull,2024-08-26 13:34:53+00:00,Merge branch 'inverted_index' of github.com:activeloopai/deeplake into ld_139,13,Monday,0,FALSE,FALSE,FALSE,62,2024-08-26,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+4cd3e110e4f981901590f1afca60bea28d6e6393,activesoull,2024-08-26 13:35:33+00:00,bump libdeeplake version to 0.0.140,13,Monday,0,FALSE,FALSE,FALSE,62,2024-08-26,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+fbb5c8269c3bb705c9c15c6e1974303509278962,activesoull,2024-08-27 14:49:52+00:00,bump libdeeplake version to 0.0.140,14,Tuesday,1,FALSE,FALSE,FALSE,62,2024-08-27,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+093a45765695dafdca14df702e5f5f564f9e46bd,activesoull,2024-08-27 14:51:59+00:00,mark test to rerun in case if the responses is not 200,14,Tuesday,1,FALSE,FALSE,FALSE,62,2024-08-27,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+311a7bcdac6de2eafe62cc451250f3e9850aa375,activesoull,2024-08-28 04:01:40+00:00,test,4,Wednesday,2,FALSE,TRUE,TRUE,62,2024-08-28,5,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4.8,1,Moderate
+a2c7a37bc0d416dee5034dcef625e7cf231f6c5b,activesoull,2024-08-28 04:11:16+00:00,change queries path,4,Wednesday,2,FALSE,TRUE,TRUE,62,2024-08-28,5,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4.8,1,Moderate
+87269edfd2eb8f6fcf460d3046209edd392b7722,activesoull,2024-08-28 04:40:43+00:00,fix,4,Wednesday,2,FALSE,TRUE,TRUE,62,2024-08-28,5,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4.8,1,Moderate
+24bebf4f88968e3e1a5a2ead8d4489f91e19e4d1,activesoull,2024-08-28 07:52:27+00:00,clear tests,7,Wednesday,2,FALSE,FALSE,TRUE,62,2024-08-28,5,1.503329638,0.1,0.1,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+c797a780fe31214493c57293738e8b00007c7d77,activesoull,2024-08-28 12:01:38+00:00,mark flaky tests,12,Wednesday,2,FALSE,FALSE,FALSE,62,2024-08-28,5,1.503329638,0,0,0.00672043,0.1,0,0,TRUE,0.790322581,2.4,1,Low
+6bf73a9e72a5222f64f51332ac75f6815c043496,activesoull,2024-09-03 16:07:06+00:00,bumb libdeeplake to 0.0.142,16,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-03,1,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+8d339fbab5ffc0dd583ddadf4feaf6d08c3343f6,activesoull,2024-09-11 07:17:30+00:00,changes to work with av 13.0.0,7,Wednesday,2,FALSE,FALSE,TRUE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+19acc9b773196d7b9361f6cc5e8aeeb115fd8566,activesoull,2024-09-11 08:38:13+00:00,fix,8,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+a6592b8b77ed2e2b6eaac9443e8b25d968f01f43,activesoull,2024-09-11 10:26:42+00:00,fix flaky,10,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+0bce30f87f1b5d35649f516cb1705734d0a9b4c1,activesoull,2024-09-11 13:03:37+00:00,test fix,13,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+e622d9686262c1850aaaddfcc5578b6a374ed584,activesoull,2024-09-11 14:36:45+00:00,make read_only,14,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+feeffcc5aa3ae2d78bc0903eb2a30b3eacf6460d,activesoull,2024-09-11 16:16:30+00:00,bump libdeeplake version to 0.0.145,16,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-11,6,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4,1,Moderate
+5d27cdaa618d2f5182a95f800371fec4a2e8b5c1,activesoull,2024-09-12 07:44:17+00:00,fix incorrect local index detection,7,Thursday,3,FALSE,FALSE,TRUE,62,2024-09-12,4,1.503329638,0,0,0.00672043,0,0,0,FALSE,0.790322581,2.4,1,Low
+2f5f998602654d044f20b2d18641d4e6965762e1,activesoull,2024-09-12 07:44:35+00:00,Merge branch 'main' of github.com:activeloopai/deeplake into ld_145,7,Thursday,3,FALSE,FALSE,TRUE,62,2024-09-12,4,1.503329638,0.166666667,0.166666667,0.00672043,0,0,0,FALSE,0.790322581,2.4,1,Low
+f4031ae2aa51fe753cccf2b179824ad734219113,activesoull,2024-09-12 10:56:56+00:00,partial read for empty samples,10,Thursday,3,FALSE,FALSE,FALSE,62,2024-09-12,4,1.503329638,-0.1,0.1,0.00672043,0.166666667,0,0,FALSE,0.790322581,2.4,1,Low
+74d31172982512da50fa414b7fefa7e530b13227,activesoull,2024-09-12 10:57:45+00:00,Merge branch 'main' of github.com:activeloopai/deeplake into invalid_corrupt_message,10,Thursday,3,FALSE,FALSE,FALSE,62,2024-09-12,4,1.503329638,0.166666667,0.166666667,0.00672043,-0.1,0,0,FALSE,0.790322581,2.4,1,Low
+15dfad338920ca2e5de4a80df3a13443647a34ad,activesoull,2024-09-17 10:25:15+00:00,upgrade pillow,10,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0,0,0.00672043,0.166666667,0,0,FALSE,0.790322581,4,1,Moderate
+ec3d71eeca89b1958d595ac277f7d577c3fe0891,activesoull,2024-09-17 10:25:31+00:00,Merge branch 'main' of github.com:activeloopai/deeplake into invalid_corrupt_message,10,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0.166666667,0.166666667,0.00672043,0,0,0,FALSE,0.790322581,4,1,Moderate
+4f85bafbe4a94aefbfef768feca818708e6c54e1,activesoull,2024-09-17 10:54:39+00:00,upgrade pillow,10,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0,0,0.00672043,0.166666667,0,0,FALSE,0.790322581,4,1,Moderate
+e2edbbd9429b007b8368292886f49ae72d65e832,activesoull,2024-09-17 12:00:11+00:00,force mmcv requiriment,12,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0,0,0.00672043,0,0,0,FALSE,0.790322581,4,1,Moderate
+a8bdd83d0353626db28f13c84f8727c5f3d20c97,activesoull,2024-09-17 12:23:38+00:00,set torch version,12,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0,0,0.00672043,0,0,0,FALSE,0.790322581,4,1,Moderate
+bc58942cedd4d0708cae4a728bf515c3acc2e11e,activesoull,2024-09-17 13:04:42+00:00,set torch version back,13,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-17,6,1.503329638,0,0,0.00672043,0,0,0,FALSE,0.790322581,4,1,Moderate
+92b881af4213507fcc8e36468f01826852a3bf34,activesoull,2024-09-18 08:16:03+00:00,handle paths which are ending with /,8,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-18,3,1.503329638,0,0,0.00672043,0,0,0,FALSE,0.790322581,2.4,1,Low
+ec955b19b667bed0f0b2a7f4084ea40797ea8738,activesoull,2024-09-18 08:19:29+00:00,Merge branch 'main' of github.com:activeloopai/deeplake into invalid_corrupt_message,8,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-18,3,1.503329638,0.166666667,0.166666667,0.00672043,0,0,0,FALSE,0.790322581,2.4,1,Low
+5a108939e0da7dcfcc02674197585950e38082f8,activesoull,2024-09-18 12:04:42+00:00,local storage,12,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-18,3,1.503329638,0,0,0.00672043,0.166666667,0,0,FALSE,0.790322581,2.4,1,Low
+835250642e7579eeedd6f7a70f598fe9d0ab5857,activesoull,2024-09-24 07:51:57+00:00,added pyproject for poetry support,7,Tuesday,1,FALSE,FALSE,TRUE,62,2024-09-24,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+a140f97ba77e29bf2d5e63ff21be303083f1e19b,activesoull,2024-09-24 15:07:23+00:00,added poetry,15,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-24,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+410276568aa280aee79052027dd5b367c88a1ec1,activesoull,2024-09-24 16:26:40+00:00,corrected version,16,Tuesday,1,FALSE,FALSE,FALSE,62,2024-09-24,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+67fbe56a820d14cd8d079372a2955d122de9076d,activesoull,2024-09-25 05:02:58+00:00,bump libdeeplake version to 0.0.146,5,Wednesday,2,FALSE,TRUE,TRUE,62,2024-09-25,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,4.8,1,Moderate
+d229e49dfcd874daa3aecba8a551a1efc3eea8de,activesoull,2024-09-25 09:18:32+00:00,strict numpy requiriment,9,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-25,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+126717f5df85a4fb0d67f7593294e27140cd0d94,activesoull,2024-09-25 16:32:25+00:00,bump libdeeplake version to 0.0.146,16,Wednesday,2,FALSE,FALSE,FALSE,62,2024-09-25,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+cbe3b5a66b8b9f8f8e12c607c09de49c9d9a23b2,activesoull,2024-09-26 12:04:24+00:00,sonar fixes,12,Thursday,3,FALSE,FALSE,FALSE,62,2024-09-26,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+8a3fee68f6603c175db7365c2df3013845cbceba,activesoull,2024-09-26 15:35:38+00:00,test fix,15,Thursday,3,FALSE,FALSE,FALSE,62,2024-09-26,2,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+b5937e7a404e7fdcdeebf5e7f13b3ae529c05e02,activesoull,2024-09-27 07:48:02+00:00,change build backend,7,Friday,4,FALSE,FALSE,TRUE,62,2024-09-27,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+8b5a8db248408aba7fe335bd51f2bf3de5d1d00d,activesoull,2024-09-27 07:50:00+00:00,fix,7,Friday,4,FALSE,FALSE,TRUE,62,2024-09-27,3,1.503329638,0,0,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+e3f11a8b5bd5f9b21dda3837db7fcde304e20a50,activesoull,2024-09-27 08:03:40+00:00,minor changes,8,Friday,4,FALSE,FALSE,FALSE,62,2024-09-27,3,1.503329638,-0.05,0.05,0.00672043,0,0,0,TRUE,0.790322581,2.4,1,Low
+7699059477e860979a30b92cee2469f488da9989,activesoull,2024-10-08 20:22:03+00:00,bump libdeeplake version to 0.0.147,20,Tuesday,1,FALSE,FALSE,TRUE,62,2024-10-08,1,1.503329638,0,0,0.00672043,-0.05,0,0,TRUE,0.790322581,2.4,1,Low
+8a72496aade2d04e3d1f67f646e3b848ccc7e80c,azat-manukyan,2024-07-14 10:40:48+00:00,create vdb index doc,10,Sunday,6,TRUE,FALSE,FALSE,8,2024-07-14,3,0.577350269,0,0,-0.070833333,,0,0,TRUE,1,5.2,-1,Moderate
+c3c20b829c31c5cf21894cf408d207e13257c1ae,azat-manukyan,2024-07-14 19:34:39+00:00,black reformating,19,Sunday,6,TRUE,FALSE,TRUE,8,2024-07-14,3,0.577350269,-0.166666667,0.166666667,-0.070833333,0,0,0,TRUE,1,5.2,-1,Moderate
+b54aac1df22ead788725cd4e37c4fd56184a336c,azat-manukyan,2024-07-14 19:36:50+00:00,added doc referance,19,Sunday,6,TRUE,FALSE,TRUE,8,2024-07-14,3,0.577350269,0,0,-0.070833333,-0.166666667,0,0,TRUE,1,5.2,-1,Moderate
+5e1405e3886c7830104003982c4255105d184b84,azat-manukyan,2024-07-15 08:14:40+00:00,doc fix,8,Monday,0,FALSE,FALSE,FALSE,8,2024-07-15,3,0.577350269,0,0,-0.070833333,0,0,0,TRUE,1,1.6,1,Low
+f523fc40f885ba90813b57770820c86f66440d29,azat-manukyan,2024-07-15 10:40:20+00:00,linter issues,10,Monday,0,FALSE,FALSE,FALSE,8,2024-07-15,3,0.577350269,0,0,-0.070833333,0,0,0,TRUE,1,1.6,1,Low
+a799ddc9e9b77422857e08e7815f7b85ace2c34c,azat-manukyan,2024-07-15 15:10:52+00:00,"default metric to COSINE_SIMILARITY and name to ""hnsw_1""",15,Monday,0,FALSE,FALSE,FALSE,8,2024-07-15,3,0.577350269,0,0,-0.070833333,0,0,0,TRUE,1,1.6,1,Low
+5197a32a6667ebff33ed8b78580e70417c202b44,azat-manukyan,2024-09-20 13:05:00+00:00,strip dataset name,13,Friday,4,FALSE,FALSE,FALSE,8,2024-09-20,2,0.577350269,0,0,-0.070833333,0,0,0,TRUE,1,1.6,1,Low
+e8e866f924618a6fe03e5350f030d1bfb8efd39b,azat-manukyan,2024-09-20 15:20:00+00:00,removed unnecessary test,15,Friday,4,FALSE,FALSE,FALSE,8,2024-09-20,2,0.577350269,-0.4,0.4,-0.070833333,0,0,0,TRUE,1,4.8,-1,Moderate
+b70f8dda5ee173f353b9c352766f37c4ff0124bd,dgaloop,2024-07-19 11:14:15+00:00,Merge remote-tracking branch 'origin/main' into feature/PLAT-533,11,Friday,4,FALSE,FALSE,FALSE,13,2024-07-19,2,1.069044968,0,0,-0.012820513,,0,0,TRUE,1,2.4,1,Low
+7e6c6aa6bcad3bb5b5c23cac180dfce74c905799,dgaloop,2024-07-19 11:14:30+00:00,Merge branch 'feature/PLAT-533' of github.com:activeloopai/deeplake into feature/PLAT-533,11,Friday,4,FALSE,FALSE,FALSE,13,2024-07-19,2,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+043dced8a2da89e71ec91b6f6d88e9d122273730,dgaloop,2024-07-24 10:48:26+00:00,Fix factory of linked creds for GCP,10,Wednesday,2,FALSE,FALSE,FALSE,13,2024-07-24,1,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+c3ce41bf9ef86dd4da131f7d1e61da1ea47e30f5,dgaloop,2024-07-26 17:48:22+00:00,Add blob url request,17,Friday,4,FALSE,FALSE,FALSE,13,2024-07-26,2,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+5f86ce87173cfc8c1a60945f467e520199bf3b1e,dgaloop,2024-07-26 17:48:31+00:00,debugging experiment,17,Friday,4,FALSE,FALSE,FALSE,13,2024-07-26,2,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+0f63f73a4599bcdf75ac64474d354934c60ce371,dgaloop,2024-07-29 06:27:34+00:00,Adjust initialization,6,Monday,0,FALSE,FALSE,TRUE,13,2024-07-29,4,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+01dcf4d2869d77f221cf6222cd59d3e69504d63f,dgaloop,2024-07-29 08:25:20+00:00,Condition fix to account for env creds,8,Monday,0,FALSE,FALSE,FALSE,13,2024-07-29,4,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+bf1c135e2b4cb0b8b97d3677189772eb82f9183e,dgaloop,2024-07-29 09:34:10+00:00,Adjust expiration checks,9,Monday,0,FALSE,FALSE,FALSE,13,2024-07-29,4,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+271cccc59e313fe1db9e4a2bf73f93cbbb928fbc,dgaloop,2024-07-29 10:02:53+00:00,Apply black,10,Monday,0,FALSE,FALSE,FALSE,13,2024-07-29,4,1.069044968,-0.166666667,0.166666667,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+7ce005ebb94469260f30df08b33ff78b4a9b53b4,dgaloop,2024-07-30 17:50:07+00:00,Pass token in test,17,Tuesday,1,FALSE,FALSE,FALSE,13,2024-07-30,2,1.069044968,0,0,-0.012820513,-0.166666667,0,0,TRUE,1,2.4,1,Low
+f7dc9a153e9f67109d0f4e11d81094b13ed76fa1,dgaloop,2024-07-30 17:50:12+00:00,Merge branch 'feature/PLAT-533' of github.com:activeloopai/deeplake into feature/PLAT-533,17,Tuesday,1,FALSE,FALSE,FALSE,13,2024-07-30,2,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+89a04e66d4f040bbc3672a1e5769dbf3c1afca52,dgaloop,2024-08-05 10:14:51+00:00,Correct propagation of scoped gcs creds,10,Monday,0,FALSE,FALSE,FALSE,13,2024-08-05,1,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+64bf9be05a096d20f93352acc53cdd293722b803,dgaloop,2024-09-11 14:48:13+00:00,Mock out actual training result,14,Wednesday,2,FALSE,FALSE,FALSE,13,2024-09-11,1,1.069044968,0,0,-0.012820513,0,0,0,TRUE,1,2.4,1,Low
+ca614b69a64b7da7603c415ccf1e23afae1aa2d0,istranical,2024-08-21 20:03:25+00:00,First commit,20,Wednesday,2,FALSE,FALSE,TRUE,6,2024-08-21,2,0.577350269,0.25,0.25,0.116666667,,0,0,TRUE,1,1.6,1,Low
+17dd1ed47a05a5604ff868b1eae965d26aa23a23,istranical,2024-08-21 21:54:47+00:00,"Added better error handling, reformatted inputs",21,Wednesday,2,FALSE,FALSE,TRUE,6,2024-08-21,2,0.577350269,0.5,0.5,0.116666667,0.25,0,0,TRUE,1,3.6,-1,Moderate
+c3f268d4a103f2420a76eab7068b18059697572f,istranical,2024-08-23 14:53:14+00:00,Working MVL,14,Friday,4,FALSE,FALSE,FALSE,6,2024-08-23,1,0.577350269,0,0,0.116666667,0.5,0,0,TRUE,1,1.6,1,Low
+5b51336a9fb0f94c201fdda61985e6f2d9abc39d,istranical,2024-08-26 13:37:20+00:00,Added tests,13,Monday,0,FALSE,FALSE,FALSE,6,2024-08-26,2,0.577350269,0,0,0.116666667,0,0,0,TRUE,1,1.6,1,Low
+461be041dacca288761fd90034cbebd4d88b233c,istranical,2024-08-26 19:21:27+00:00,Minor fixes,19,Monday,0,FALSE,FALSE,TRUE,6,2024-08-26,2,0.577350269,-0.05,0.05,0.116666667,0,0,0,TRUE,1,1.6,1,Low
+bc998ad0fccbd6fcd6fc25d2819af170c1db8ea0,istranical,2024-08-29 16:27:00+00:00,Export yolo docs,16,Thursday,3,FALSE,FALSE,FALSE,6,2024-08-29,1,0.577350269,0,0,0.116666667,-0.05,0,0,TRUE,1,1.6,1,Low
+c915b870b0ff29b5c99c2976777895bc100dc7a5,khustup2,2024-12-12 11:03:54+00:00,v4.1.0 Release.,11,Thursday,3,FALSE,FALSE,FALSE,3,2024-12-12,1,0,0,0,0,,0,0,TRUE,1,1.6,1,Low
+c1ffae6c03f47768711fd93d2780c0957f38400d,khustup2,2024-12-19 20:30:46+00:00,v4.1.1 Release,20,Thursday,3,FALSE,FALSE,TRUE,3,2024-12-19,1,0,0,0,0,0,0,0,TRUE,1,1.6,1,Low
+20984831aff1ce0994fc844d52b138baa74a94c5,khustup2,2024-12-31 05:17:59+00:00,v4.1.2 Release,5,Tuesday,1,FALSE,TRUE,TRUE,3,2024-12-31,1,0,0,0,0,0,0,0,TRUE,1,6,-1,Moderate
+07351517c24e0fb60723cbbb1e50833b9306e2a8,nvoxland,2024-07-30 19:17:51+00:00,Removed test for now-gone CollateExceptionWrapper,19,Tuesday,1,FALSE,FALSE,TRUE,10,2024-07-30,1,1.632993162,0,0,-0.003333333,,0,0,TRUE,0.9,2.4,1,Low
+40a102b842d78cc06d5b7cb08503bb006f081172,nvoxland,2024-09-25 18:46:30+00:00,Updated version for next release,18,Wednesday,2,FALSE,FALSE,TRUE,10,2024-09-25,1,1.632993162,0,0,-0.003333333,0,0,0,TRUE,0.9,2.4,1,Low
+801df9e5a4c651debf9c757806ca5c31f4352b5b,nvoxland,2024-09-27 16:30:40+00:00,Updated version for next release,16,Friday,4,FALSE,FALSE,FALSE,10,2024-09-27,1,1.632993162,0,0,-0.003333333,0,0,0,FALSE,0.9,2.4,1,Low
+dc0da5b60af0ec768726dec65ef6c4dd64ce42b0,nvoxland,2024-10-21 22:35:26+00:00,Removed v3 code,22,Monday,0,FALSE,TRUE,TRUE,10,2024-10-21,5,1.632993162,0,0,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+394b6404391a777c5fa391d9db63df25bb21511b,nvoxland,2024-10-21 22:36:40+00:00,Switched to Apache 2.0 license,22,Monday,0,FALSE,TRUE,TRUE,10,2024-10-21,5,1.632993162,0,0,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+2d013e40827fc27fd6a749b7100bc8be872493e9,nvoxland,2024-10-21 22:39:40+00:00,Updated docs.deeplake.ai links,22,Monday,0,FALSE,TRUE,TRUE,10,2024-10-21,5,1.632993162,0,0,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+9ec28a012b98621b96fa92d6cf38385b9daedfe3,nvoxland,2024-10-21 22:42:31+00:00,Added 4.0 python API files,22,Monday,0,FALSE,TRUE,TRUE,10,2024-10-21,5,1.632993162,0,0,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+561b3a7fe282f77efd69453c92489d03f0a46ae1,nvoxland,2024-10-21 22:58:13+00:00,"Run ""main"" builds on v3",22,Monday,0,FALSE,TRUE,TRUE,10,2024-10-21,5,1.632993162,0.166666667,0.166666667,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+8c7a9ada7a0b61d2d7c87efaf4a5f86f8534a7c8,nvoxland,2024-10-22 15:46:55+00:00,Updated readme for 4.0,15,Tuesday,1,FALSE,FALSE,FALSE,10,2024-10-22,1,1.632993162,0,0,-0.003333333,0.166666667,0,0,TRUE,0.9,2.4,1,Low
+ba47245f1ea5b827f613108005ebd5e38fcf4730,nvoxland,2024-10-23 05:37:09+00:00,Disabled github actions for now,5,Wednesday,2,FALSE,TRUE,TRUE,10,2024-10-23,1,1.632993162,-0.2,0.2,-0.003333333,0,0,0,TRUE,0.9,6.8,-1,High
+09ae7a69d70f1a483acecac88b3a7915594b8968,sounakr,2024-07-18 12:01:30+00:00,Inverted Index Phase 1. Initial commit.,12,Thursday,3,FALSE,FALSE,FALSE,15,2024-07-18,1,1.643167673,0,0,-0.011111111,,0,0,TRUE,0.8,2.4,1,Low
+8e41b7e8e55e4528098ad4bca9ae3914b26acbf4,sounakr,2024-08-13 14:46:05+00:00,Inverted Index Phase 2. Drop inverted index.,14,Tuesday,1,FALSE,FALSE,FALSE,15,2024-08-13,2,1.643167673,0,0,-0.011111111,0,0,0,FALSE,0.8,2.4,1,Low
+9ce77d9d96cc1ceca23934bd126019151f037ee8,sounakr,2024-08-13 18:22:31+00:00,Inverted Index Phase 3. Run black.,18,Tuesday,1,FALSE,FALSE,TRUE,15,2024-08-13,2,1.643167673,-0.166666667,0.166666667,-0.011111111,0,0,0,FALSE,0.8,2.4,1,Low
+a9dc4959ba9446af310bec074ef5bd32c9372ee3,sounakr,2024-08-14 06:50:20+00:00, - Merge remote-tracking branch 'origin/main' into inverted_index,6,Wednesday,2,FALSE,FALSE,TRUE,15,2024-08-14,1,1.643167673,0,0,-0.011111111,-0.166666667,0,0,FALSE,0.8,2.4,1,Low
+3936301c1812a760c57e6a2b1eb1bf669b314e9c,sounakr,2024-08-23 14:16:50+00:00,Inverted Index Phase 4. Add test Cases.,14,Friday,4,FALSE,FALSE,FALSE,15,2024-08-23,4,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,2.4,1,Low
+4bcd93bd5b2d9ad97283630da78f7b102cd3fc7c,sounakr,2024-08-23 14:17:14+00:00, -Merge remote-tracking branch 'origin/main' into inverted_index,14,Friday,4,FALSE,FALSE,FALSE,15,2024-08-23,4,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,2.4,1,Low
+7b013da9f5267dccb5c331fb5b5a6ee95ce7a493,sounakr,2024-08-23 18:35:41+00:00,Inverted Index Phase 5. Rectify Test Case.,18,Friday,4,FALSE,FALSE,TRUE,15,2024-08-23,4,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,2.4,1,Low
+599f38c5502937c83ad8aab6e3b357ab7f9f8bd8,sounakr,2024-08-23 18:36:47+00:00, - Merge remote-tracking branch 'origin/inverted_index' into inverted_index,18,Friday,4,FALSE,FALSE,TRUE,15,2024-08-23,4,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,2.4,1,Low
+ee9e1441c23768ca8879cb71f74673e2e7f9b950,sounakr,2024-08-24 04:46:38+00:00,Inverted Index Phase 6. Reformat Code,4,Saturday,5,TRUE,TRUE,TRUE,15,2024-08-24,5,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,8.4,-1,High
+14c58792edf3348c62136a8e681b1cb53a812728,sounakr,2024-08-24 10:01:37+00:00,Inverted Index Phase 7. Adjust Review comments.,10,Saturday,5,TRUE,FALSE,FALSE,15,2024-08-24,5,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,6,-1,Moderate
+0093eed2e23a268166239b834c347439c4893638,sounakr,2024-08-24 17:56:39+00:00,Inverted Index Phase 8.,17,Saturday,5,TRUE,FALSE,FALSE,15,2024-08-24,5,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,6,-1,Moderate
+964d8de04efb77be4d9ef832666533dfa8721161,sounakr,2024-08-24 19:48:09+00:00,Inverted Index Phase 9.,19,Saturday,5,TRUE,FALSE,TRUE,15,2024-08-24,5,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,6,-1,Moderate
+16331adbb4e8e94f6224562181391a38803d8657,sounakr,2024-08-24 19:49:30+00:00,Inverted Index Phase 10.,19,Saturday,5,TRUE,FALSE,TRUE,15,2024-08-24,5,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,6,-1,Moderate
+b615064fe13f3112fbde30ee8718528c31d24a29,sounakr,2024-08-27 04:26:41+00:00,Inverted Index Phase 11. Remove vectorstore constants for inverted index as they are not used.,4,Tuesday,1,FALSE,TRUE,TRUE,15,2024-08-27,2,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,4.8,1,Moderate
+190295b2976a899a29edd01f747df231d0e0ff6a,sounakr,2024-08-27 05:18:20+00:00,Inverted Index Phase 12. index_operation_vectorstore should work on on embedding tensor. in case it is None should return None.,5,Tuesday,1,FALSE,TRUE,TRUE,15,2024-08-27,2,1.643167673,0,0,-0.011111111,0,0,0,TRUE,0.8,4.8,1,Moderate
+999b83b409addaadad1c5a46aa7b9db0c5ba4d35,tatevikh,2024-07-12 17:25:37+00:00,Update verison for next release,17,Friday,4,FALSE,FALSE,FALSE,16,2024-07-12,1,0.43852901,0,0,-0.01875,,0,0,TRUE,0.875,1.6,1,Low
+b747e72729e3ce7b3b4b21b7c446e6e01204137d,tatevikh,2024-07-18 06:53:54+00:00,default index type test issue,6,Thursday,3,FALSE,FALSE,TRUE,16,2024-07-18,2,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+472e5b2635df76b5bda0b5b31b7e7b3c0edfdd7e,tatevikh,2024-07-18 06:53:54+00:00,fix padding for last element,6,Thursday,3,FALSE,FALSE,TRUE,16,2024-07-18,2,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+d1476878b1476c1bbe739bb8db58e408af6ae863,tatevikh,2024-07-19 04:32:38+00:00,Updated version for next release,4,Friday,4,FALSE,TRUE,TRUE,16,2024-07-19,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,6,-1,Moderate
+b18a8992b97bca74c08614cace1b142dbb3d2fe8,tatevikh,2024-07-24 08:20:48+00:00,move common pipelines to common place,8,Wednesday,2,FALSE,FALSE,FALSE,16,2024-07-24,2,0.43852901,-0.3,0.3,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+cdc00dab365fed99b4eb0108adcd625dd4b0ff41,tatevikh,2024-07-24 08:20:48+00:00,mmseg get pipeline by priority,8,Wednesday,2,FALSE,FALSE,FALSE,16,2024-07-24,2,0.43852901,0,0,-0.01875,-0.3,0,0,TRUE,0.875,1.6,1,Low
+23c3d54c8249a9ba791d4817c1983377db79fe8e,tatevikh,2024-07-25 06:52:36+00:00,Updated version for next release,6,Thursday,3,FALSE,FALSE,TRUE,16,2024-07-25,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+c84d7e110df7c620bbbf441542ad239aa0ae53c7,tatevikh,2024-07-31 04:42:11+00:00,Updated version for next release,4,Wednesday,2,FALSE,TRUE,TRUE,16,2024-07-31,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,4,1,Moderate
+ddd83fce127db3fec8661bdea166241e86b7a4d1,tatevikh,2024-08-03 16:53:02+00:00,Updated version for next release,16,Saturday,5,TRUE,FALSE,FALSE,16,2024-08-03,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,5.2,-1,Moderate
+943a605d01431a7754e6360a6d1b0855de532699,tatevikh,2024-08-06 10:26:04+00:00,fix: fix list typehint.,10,Tuesday,1,FALSE,FALSE,FALSE,16,2024-08-06,2,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+f126c8014447fc8b5c7f4fad62c91ae92d68c24b,tatevikh,2024-08-06 14:15:50+00:00,Updated version for next release,14,Tuesday,1,FALSE,FALSE,FALSE,16,2024-08-06,2,0.43852901,0,0,-0.01875,0,0,0,FALSE,0.875,1.6,1,Low
+fa7783e0c34a470a268f40f7422177e9dc4197d3,tatevikh,2024-08-27 20:13:41+00:00,Updated version for next release,20,Tuesday,1,FALSE,FALSE,TRUE,16,2024-08-27,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+25e6856a3376a06a2c095769bfd87cba73af6b02,tatevikh,2024-08-28 17:23:51+00:00,Updated version for next release,17,Wednesday,2,FALSE,FALSE,FALSE,16,2024-08-28,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+e140e43754693eb9259a21f60024137841035e54,tatevikh,2024-09-03 20:28:35+00:00,Updated version for next release,20,Tuesday,1,FALSE,FALSE,TRUE,16,2024-09-03,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,1.6,1,Low
+8894e7f3bb16112f26a440ec67da498e447ad348,tatevikh,2024-09-07 00:55:48+00:00,Update version for next release,0,Saturday,5,TRUE,TRUE,TRUE,16,2024-09-07,1,0.43852901,0,0,-0.01875,0,0,0,TRUE,0.875,7.6,-1,High
+2362b3d2723f87c46f8ee4685a1811d5e7e1a76a,tatevikh,2024-09-11 18:39:29+00:00,Updated version for next release,18,Wednesday,2,FALSE,FALSE,TRUE,16,2024-09-11,1,0.43852901,0,0,-0.01875,0,0,0,FALSE,0.875,1.6,1,Low
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

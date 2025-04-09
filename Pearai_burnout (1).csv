@@ -1,0 +1,1171 @@
+sha,author,date,message,hour,day_of_week,day_num,is_weekend,is_late_night,is_after_hours,commit_frequency,date_day,daily_commits,commit_variability,sentiment,sentiment_magnitude,avg_sentiment,prev_sentiment,consecutive_negative,negative_streak,is_near_release,release_commit_density,burnout_risk_score,anomaly,burnout_risk_category
+6f91aed4d7e5993f020d845f57af254bcca11fc2,Fryingpannn,2025-01-04 12:18:08+00:00,UI Architecture in read me (#68),12,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,,0,0,FALSE,0,3.2,1,Moderate
+5ecd53ed1bd8922131e301ea12032025440abfed,Fryingpannn,2025-01-04 13:50:12+00:00,"Cherry picked Trifall changes (#90)
+
+* submodule
+
+* Implement issue #20 (#64)
+
+* Add CTRL+[ Hotkey to expand/collapse the size of the chat-bar
+
+* Move state variables inside the ResizeAuxBarWidth action
+
+* Remove promise and refactor label name
+
+---------
+
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Jerren T <JerrenT@Trifall.com>",13,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0.1,0.1,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+53d5720392f0a775823309cfd088f4b92667ed25,Fryingpannn,2025-01-04 13:54:28+00:00,Added PearAI Logo,13,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0.1,0,0,FALSE,0,3.2,1,Moderate
+14ecc3f937dc52db34854ad84d9a530986a689ad,Fryingpannn,2025-01-04 13:58:16+00:00,Update CONTRIBUTING.md,13,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+3841df09f4328fbe7cf10e1154e44fb44576455e,Fryingpannn,2025-01-04 14:00:30+00:00,"Solve merge conflicts. Running on Windows (#99)
+
+* mc
+
+* re
+
+* fix windows
+
+* module",14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+680b605bfce5f12ec0fd5a28c48683ece3ba216a,Fryingpannn,2025-01-04 14:00:55+00:00,"Update CONTRIBUTING.md (#98)
+
+additional spectre needed for windows VS builds",14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+705d383ff4da26f460533a8f7ec6eb6015d08ad1,Fryingpannn,2025-01-04 14:01:19+00:00,Update CONTRIBUTING.md,14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+ae0ce74ee1e74f605f7b62db9b3f87b1dbdbbae6,Fryingpannn,2025-01-04 14:01:41+00:00,Update CONTRIBUTING.md,14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+d2dabed9a7d90ba9f0daf01f28740e0fc128658d,Fryingpannn,2025-01-04 14:04:58+00:00,Update CONTRIBUTING.md (#112),14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+efbff4680cb18ace66f773b9b14136bb5e4183d6,Fryingpannn,2025-01-04 14:05:50+00:00,Update README.md,14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+a691001f0ed5321ebd3bedf4d709aeb6ba8df15d,Fryingpannn,2025-01-04 14:06:14+00:00,Update README.md (#114),14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+655fd9d6e10d9595d91298d471f63472a6f264a5,Fryingpannn,2025-01-04 14:06:52+00:00,Update CONTRIBUTING.md (#115),14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+99932f2c470f56f0e548c9625391235adc30e9e2,Fryingpannn,2025-01-04 14:07:29+00:00,"mac-clean-setup (#113)
+
+Co-authored-by: Matthew Pan <matthew.pan@coinbase.com>",14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+1889400c61971545ffd686624d01922fb681f95b,Fryingpannn,2025-01-04 14:10:03+00:00,Update README.md,14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+09a9f838a6bc24c571903778e6a0dfce76548847,Fryingpannn,2025-01-04 14:17:34+00:00,"New icons - Fixed sizes and color (#166)
+
+* New icons fixed
+
+* fix name",14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0.118181818,0.118181818,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+b58ab3aa3e7102a7de2373f8d106556ed64abc22,Fryingpannn,2025-01-04 14:22:02+00:00,logos rounded for linux mac (#172),14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0.118181818,0,0,FALSE,0,3.2,1,Moderate
+54622e0e88a89bc1f88dbb4374265c9c856e5964,Fryingpannn,2025-01-04 14:30:36+00:00,WORKING-ICON-FINALLY (#174),14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+922e132ee34b877307e066dea0139356fd27fcc4,Fryingpannn,2025-01-04 14:33:52+00:00,"Changed close chat to use `CTRL` for windows (#178)
+
+* changed to ctrl for close chat
+
+* Revert ""changed to ctrl for close chat""
+
+This reverts commit 61c9f2910f31b306e613bcdf19b0809decd0893d.
+
+* changed to ctrl",14,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+c71de49fc5dd725ad1d06caab86696eb04fc2853,Fryingpannn,2025-01-04 15:57:42+00:00,Update README.md,15,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+5114200f5119ba892952878870ef89f5b8932105,Fryingpannn,2025-01-04 15:59:06+00:00,Update README.md,15,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+391afa5d7e5545628155393bff1737a1c49f7d71,Fryingpannn,2025-01-04 15:59:37+00:00,Update README.md,15,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+08ea5916e3949120de8209427544c269543bf0d9,Fryingpannn,2025-01-04 16:05:14+00:00,Update README.md with contributing (#237),16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+ba0d5ec533b260818c1ddc1dc1a5051d22b8a619,Fryingpannn,2025-01-04 16:07:42+00:00,Update README.md,16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+55ea992fdc49e08fee98a61f2534c08efba198f9,Fryingpannn,2025-01-04 16:16:30+00:00,Update README.md (#276),16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+e351c47064595a6dfe6e23d2ef8d22978f42d935,Fryingpannn,2025-01-04 16:27:00+00:00,Update README.md,16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+be9db64c829161f5e7d1cabe9dba7002e4d6ea48,Fryingpannn,2025-01-04 16:29:59+00:00,Update README.md,16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+ed02d35357290b3e459e9098d216a6d1f5cdf416,Fryingpannn,2025-01-04 16:30:30+00:00,Update README.md,16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+81b5453865c179fa1c4e5b09cef989b0834e770f,Fryingpannn,2025-01-04 16:36:42+00:00,"PearAI Overlay (#67)
+
+* PearAI Overlay
+
+* Uncomment layout
+
+* Remove comment
+
+* Prevent overlay open on every startup + background default color
+
+* Fix overlay bug
+
+* Border radius",16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+916d894032fc56822b1f5eb6de1bed2af25c06e2,Fryingpannn,2025-01-04 16:37:15+00:00,"Fix overlay popping up for half a second at startup (#77)
+
+* Console logs for debugging trace of overlay startup
+
+* Revert ""Console logs for debugging trace of overlay startup""
+
+This reverts commit 70fa3bc021bcac48bbd4a387f0c1bc60ff9c4d27.
+
+* Fix overlay appearing for half a second on startup",16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,-0.083333333,0.083333333,0.004494949,0,0,0,FALSE,0,3.2,1,Moderate
+2e1f62e94a0d84cf3074dc896e3b502899da6598,Fryingpannn,2025-01-04 16:45:18+00:00,Overlay structuring to happen in submodule (#102),16,Saturday,5,TRUE,FALSE,FALSE,30,2025-01-04,30,0,0,0,0.004494949,-0.083333333,0,0,FALSE,0,3.2,1,Moderate
+c53a84a7608020b21f5a110e32df910df3741745,Himanshu-Singh-Chauhan,2025-01-04 14:12:25+00:00,fix: better handling for symlinks (#151),14,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0.5,0.5,0.107177033,,0,0,FALSE,0.157894737,5.2,-1,Moderate
+1ac87cd5c419092525d5fb914753584352883bb1,Himanshu-Singh-Chauhan,2025-01-04 14:13:27+00:00,feat: set pearai ext loc to secondary side bar (Auxiliary Bar) (#156),14,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,-0.3,0.3,0.107177033,0.5,0,0,FALSE,0.157894737,5.2,-1,Moderate
+121fa860a3877b866b211c3fd735baa8901200d1,Himanshu-Singh-Chauhan,2025-01-04 14:33:24+00:00,"fix detached head after submodule init (#159)
+
+* win.setup.ps1: fix-detached-head-after-submodule-init
+
+* unix.setup.sh fix symlink create order",14,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,-0.3,0,0,FALSE,0.157894737,3.2,1,Moderate
+b33c336bd5f398118ba498cee8b98d51854e3af1,Himanshu-Singh-Chauhan,2025-01-04 16:14:10+00:00,update submodule to latest tip (#260),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0.5,0.5,0.107177033,0,0,0,FALSE,0.157894737,5.2,-1,Moderate
+b15effc70e64dda10738db5f5d41a3cf8c3f5965,Himanshu-Singh-Chauhan,2025-01-04 16:15:58+00:00,"feat: docs and newchat shortcut on titlebar (#266)
+
+* feat: docs and newchat shortcut on titlebar
+
+* typo",16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0.5,0,0,FALSE,0.157894737,3.2,1,Moderate
+cdb5690dbb5b2a36f230c8703bd513d1f4d553f3,Himanshu-Singh-Chauhan,2025-01-04 16:23:34+00:00,"update icon and watermark (#278)
+
+* watermarks update
+
+* add shortcuts to watermark
+
+* titlebar icon change
+
+* fix walkthrough",16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+433e2ff89054030697846afe9afe0324afe9e69d,Himanshu-Singh-Chauhan,2025-01-04 16:24:22+00:00,set quality:stable (#267),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+6fa3538bed9e6be1e0269d016a0e184073241312,Himanshu-Singh-Chauhan,2025-01-04 16:30:15+00:00,patch-wsl (add vscode commit) (#348),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+d8f7889efba03b4cb89f98290e07da605b38eb96,Himanshu-Singh-Chauhan,2025-01-04 16:31:38+00:00,add pear version in about,16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+fae431d83119e76e93267d96ae8da3f589bb5422,Himanshu-Singh-Chauhan,2025-01-04 16:40:30+00:00,feat: new window watermark (#87),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0.136363636,0.136363636,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+7385cfd2480df94c57d4643c88115e26c7b6bcdf,Himanshu-Singh-Chauhan,2025-01-04 16:41:22+00:00,feat: overlay-lock (#92),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0.136363636,0,0,FALSE,0.157894737,3.2,1,Moderate
+05789538a21732de60750bc25cd715e519e9a9de,Himanshu-Singh-Chauhan,2025-01-04 16:43:01+00:00,remove unused vars (#97),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+87d711afe0279b1aa80decdec77e320275749f19,Himanshu-Singh-Chauhan,2025-01-04 16:47:35+00:00,Bumped to v1.5.1 (#125),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+b76fca5eb9cf454c5a0465c4f429c7098a5b5f7c,Himanshu-Singh-Chauhan,2025-01-04 16:48:10+00:00,disable-fast-updates (#127),16,Saturday,5,TRUE,FALSE,FALSE,19,2025-01-04,14,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.2,1,Moderate
+19622c86be3d186a67147c8b721b17dbc1c96b6d,Himanshu-Singh-Chauhan,2025-01-05 12:02:52+00:00,merge fixes 1,12,Sunday,6,TRUE,FALSE,FALSE,19,2025-01-05,2,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.6,-1,Moderate
+990316b9abf7c0c28498e076f4bfab9f7f1efce8,Himanshu-Singh-Chauhan,2025-01-05 14:32:29+00:00,vscode pull fixes,14,Sunday,6,TRUE,FALSE,FALSE,19,2025-01-05,2,5.718391382,0,0,0.107177033,0,0,0,FALSE,0.157894737,3.6,-1,Moderate
+5ce28dd57279f88b9eb39549f5dee6b61135169a,Himanshu-Singh-Chauhan,2025-01-14 04:14:40+00:00,disable welcome page (#141),4,Tuesday,1,FALSE,TRUE,TRUE,19,2025-01-14,1,5.718391382,0.8,0.8,0.107177033,0,0,0,TRUE,0.157894737,4.4,-1,Moderate
+feb9a53025c480a1f62774200448f670eb3bb41b,Himanshu-Singh-Chauhan,2025-01-16 17:09:00+00:00,"update banner (#162)
+
+* disable welcome page (#141)
+
+* simple update banner",17,Thursday,3,FALSE,FALSE,FALSE,19,2025-01-16,1,5.718391382,0.4,0.4,0.107177033,0.8,0,0,TRUE,0.157894737,2,-1,Low
+8655e6212c7d3a88b96f131071cd65d5460418bf,Himanshu-Singh-Chauhan,2025-02-12 06:06:24+00:00,bump 1.8.0,6,Wednesday,2,FALSE,FALSE,TRUE,19,2025-02-12,1,5.718391382,0,0,0.107177033,0.4,0,0,TRUE,0.157894737,2,-1,Low
+38d34621194d3c931a2306f2b59d18b23174ca9a,InSelfControll,2025-01-04 16:49:00+00:00,"Update gulpfile.vscode.linux.js (#142)
+
+Added .toLowerCase() in the snapcraft function due the unsupported of capital letters in snap store utility.",16,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,-0.125,0.125,-0.125,,0,0,FALSE,0,1.6,1,Low
+ab7ad49bfc12376d249784ad99793227c92b4df0,MaxFSP,2025-01-04 16:16:53+00:00,"Shortcut change to resize chat  on the app side (#279)
+
+* Shortcut change to resize chat  on the app side
+
+* Removed test related console log
+
+* Updated splitEditor shortcut",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0,0,0.080012244,,0,0,FALSE,0,1.6,1,Low
+330f8d2af5d4904fdb69e6b392bb21a3dc472146,MaxFSP,2025-01-04 16:45:32+00:00,"Updated visuals on the new window page (#106)
+
+* Updated visuals on the new window page
+
+* Fixed css indentation",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0.124242424,0.124242424,0.080012244,0,0,0,FALSE,0,1.6,1,Low
+6423f931c1bc89d46d4773d6d50507f59007e4ea,MaxFSP,2025-01-04 16:45:55+00:00,"Max/new window page visual bug fix (#115)
+
+* Updated to v1.3.0
+
+* add pear version in about
+
+* Update CONTRIBUTING.md
+
+update packaging guide
+
+* Update CONTRIBUTING.md
+
+update packaging info
+
+* Update CONTRIBUTING.md
+
+* Git submodule commit update (#66)
+
+* Bumped to v1.4.0
+
+* PearAI Overlay (#67)
+
+* PearAI Overlay
+
+* Uncomment layout
+
+* Remove comment
+
+* Prevent overlay open on every startup + background default color
+
+* Fix overlay bug
+
+* Border radius
+
+* Bumped to v1.4.1
+
+* Fix overlay popping up for half a second at startup (#77)
+
+* Console logs for debugging trace of overlay startup
+
+* Revert ""Console logs for debugging trace of overlay startup""
+
+This reverts commit 70fa3bc021bcac48bbd4a387f0c1bc60ff9c4d27.
+
+* Fix overlay appearing for half a second on startup
+
+* Bumped versions (#80)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* Handle overlay integration shortcuts (#84)
+
+* feat: new window watermark (#87)
+
+* Added darken and click outside overlay. todo for not closing
+
+* Added min for the auxbar (#94)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* feat: overlay-lock (#92)
+
+* Added remove release notes (#96)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* remove unused vars (#97)
+
+* Bumped to v1.4.4
+
+* Default close sidebar for new window (#98)
+
+* Bumped to v1.4.5
+
+* highlight cmd i onboarding (#105)
+
+* WIP: Walkthrough changes (#236)
+
+* Added walkthrough progress
+
+* Added progress for walkthrough
+
+* Added todo
+
+* enable editorInsets for inline chat (#253)
+
+* Fix .gitmodules
+
+* Update code.sh
+
+* update submodule to latest tip (#260)
+
+* fix: #262 prioritize pearai commands (#264)
+
+* fix: #262 prioritize pearai commands
+
+* fix: update priority order and change test case default chord
+
+* fix: use keymode.shift
+
+* Fixed code version
+
+* feat: docs and newchat shortcut on titlebar (#266)
+
+* feat: docs and newchat shortcut on titlebar
+
+* typo
+
+* Update README.md (#276)
+
+* Shortcut change to resize chat  on the app side (#279)
+
+* Shortcut change to resize chat  on the app side
+
+* Removed test related console log
+
+* Updated splitEditor shortcut
+
+* update icon and watermark (#278)
+
+* watermarks update
+
+* add shortcuts to watermark
+
+* titlebar icon change
+
+* fix walkthrough
+
+* Added product (#285)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* set quality:stable (#267)
+
+* update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule (#228)
+
+* update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule
+
+* fix constants CAP
+
+* PearAI main app welcome page gif fixed (#286)
+
+* Update media paths for welcome page GIFs and GIF themselves.
+
+* upload two gifs first
+
+* upload one gif first
+
+* push again
+
+* Fixed walk through (#288)
+
+* Added imports for gif
+
+* Added png
+
+* Added typo fix
+
+* Added png
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* Added to readme (#295)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* add hacker theme to pearai (#300)
+
+* Update README.md
+
+* Set default theme to PearAI Dark/Light (#322)
+
+* Set default theme to PearAI Dark/Light
+
+* Undo not needed solarized file changes
+
+* Added auto-updating working client-side (#340)
+
+* Added updating working
+
+* Removed configs
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Updated wording (#341)
+
+* Added updating working
+
+* Removed configs
+
+* Added pearAI online services
+
+* Added pearAI online services
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Setup Environment with Space in Path (#335)
+
+* Added v1.1.0 (#344)
+
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Bumped to v1.2.0
+
+* Update README.md
+
+* patch-wsl (add vscode commit) (#348)
+
+* Update README.md
+
+* If you are looking for commit history, read this please
+
+* Updated to v1.3.0
+
+* add pear version in about
+
+* Update CONTRIBUTING.md
+
+update packaging guide
+
+* Update CONTRIBUTING.md
+
+update packaging info
+
+* Update CONTRIBUTING.md
+
+* Git submodule commit update (#66)
+
+* Bumped to v1.4.0
+
+* PearAI Overlay (#67)
+
+* PearAI Overlay
+
+* Uncomment layout
+
+* Remove comment
+
+* Prevent overlay open on every startup + background default color
+
+* Fix overlay bug
+
+* Border radius
+
+* Bumped to v1.4.1
+
+* Fix overlay popping up for half a second at startup (#77)
+
+* Console logs for debugging trace of overlay startup
+
+* Revert ""Console logs for debugging trace of overlay startup""
+
+This reverts commit 70fa3bc021bcac48bbd4a387f0c1bc60ff9c4d27.
+
+* Fix overlay appearing for half a second on startup
+
+* Bumped versions (#80)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* Handle overlay integration shortcuts (#84)
+
+* feat: new window watermark (#87)
+
+* Added darken and click outside overlay. todo for not closing
+
+* Added min for the auxbar (#94)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* feat: overlay-lock (#92)
+
+* Added remove release notes (#96)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* remove unused vars (#97)
+
+* Bumped to v1.4.4
+
+* Default close sidebar for new window (#98)
+
+* Add highlight of quickinput during cmd+i step
+
+* clean up
+
+* package.json
+
+* remove transition
+
+---------
+
+Co-authored-by: Nang <nathanang2000@gmail.com>
+Co-authored-by: Himanshu <him.speedo@gmail.com>
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>
+Co-authored-by: Maximiliano Farfan <72162955+MaxFSP@users.noreply.github.com>
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Brian <brian7149@gmail.com>
+Co-authored-by: Andrew Hopkins <ahopkins0929@gmail.com>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+Co-authored-by: Ashvin Nihalani <ashvin.nihalani@gmail.com>
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* Overlay structuring to happen in submodule (#102)
+
+* Updated visuals on the new window page (#106)
+
+* Updated visuals on the new window page
+
+* Fixed css indentation
+
+* Visual fix on new window page
+
+---------
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+Co-authored-by: himanshu <him.speedo@gmail.com>
+Co-authored-by: John Pan <john.pan@mail.mcgill.ca>
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>
+Co-authored-by: Nang <nathanang2000@gmail.com>
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Brian <brian7149@gmail.com>
+Co-authored-by: Andrew Hopkins <ahopkins0929@gmail.com>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+Co-authored-by: Ashvin Nihalani <ashvin.nihalani@gmail.com>",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0.115794307,0.115794307,0.080012244,0.124242424,0,0,FALSE,0,1.6,1,Low
+c561dc7bb8b1f4f4478365fa96f40efe78a4164a,Pockylee,2025-01-04 15:58:03+00:00,Update CONTRIBUTE.MD: Step 3.2 command with backticks (#176),15,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0,0,0.131481481,,0,0,FALSE,0,1.6,1,Low
+938d18bf69aa01692574f01295de32bd4cc8db05,Pockylee,2025-01-04 16:24:38+00:00,"update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule (#228)
+
+* update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule
+
+* fix constants CAP",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0,0,0.131481481,0,0,0,FALSE,0,1.6,1,Low
+a003443a6842cee14cfbd3c6e5db6faea76bf86d,Pockylee,2025-01-04 16:24:58+00:00,"PearAI main app welcome page gif fixed (#286)
+
+* Update media paths for welcome page GIFs and GIF themselves.
+
+* upload two gifs first
+
+* upload one gif first
+
+* push again",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0.394444444,0.394444444,0.131481481,0,0,0,FALSE,0,1.6,1,Low
+78cfa66700da0a8261be2cfd959511a1d60370de,Trifall,2025-01-04 12:20:40+00:00,"Fix issue #59 - Update contributing.md doc (#63)
+
+* Update links, folder names, and app names from vscode to pearai-app
+
+* Update links for the README files and dev containers
+
+* Further changes to VSCode references
+
+* Make requests changes and fix minor grammar
+
+---------
+
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>
+Co-authored-by: Nang <nathanang2000@gmail.com>",12,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,-0.025,0.025,0.0375,,0,0,FALSE,0,1.6,1,Low
+7c3a5517263eb5b8313a18d59c5a6b4be912e351,Trifall,2025-01-04 12:22:45+00:00,"Implement issue #20 (#64)
+
+* Add CTRL+[ Hotkey to expand/collapse the size of the chat-bar
+
+* Move state variables inside the ResizeAuxBarWidth action
+
+* Remove promise and refactor label name
+
+---------
+
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>",12,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0.1,0.1,0.0375,-0.025,0,0,FALSE,0,1.6,1,Low
+c04c94f79c25aabeb398b691d3c79067260f7c76,Unknown,2025-01-04 16:29:37+00:00,Bumped to v1.2.0,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,,0,0,FALSE,0,3.2,1,Moderate
+55a1b2fc0f298f7b3cf0e95b19c8c454f0effb9a,Unknown,2025-01-04 16:30:45+00:00,"If you are looking for commit history, read this please",16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+dda7b8634be0a1fa51a6e5068255a1652f7c7e4a,Unknown,2025-01-04 16:30:59+00:00,Updated to v1.3.0,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+34859264035d5502cf2129d77cece8fa5cefae52,Unknown,2025-01-04 16:34:39+00:00,Bumped to v1.4.0,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+6691035c149d80e4ed0f709c853bace49da242e6,Unknown,2025-01-04 16:37:02+00:00,Bumped to v1.4.1,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+be46bbdc1c617ce34f07f2bb1cb04d3f77ead4dd,Unknown,2025-01-04 16:40:50+00:00,Added darken and click outside overlay. todo for not closing,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+54f0ae4ae41e79748dfb300b030a1b9cd0df0645,Unknown,2025-01-04 16:43:28+00:00,Bumped to v1.4.4,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+312c22f01213ef7877ffd09026fea6b57d586cf3,Unknown,2025-01-04 16:43:59+00:00,Bumped to v1.4.5,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+5069848e685086788de2ef4b23e5f98c3e02cc12,Unknown,2025-01-04 16:46:30+00:00,Bumped to v1.5.0,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+a0ee78e67cc279499a4b7bb280b574c68acc9358,Unknown,2025-01-04 16:47:54+00:00,Bumped to v1.5.2,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+4e757abc92f58a5b773504458fea6ed44c45831a,Unknown,2025-01-04 16:48:44+00:00,Bumped to v1.6.0,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+d371fb7ce41b0e5180d175736274b6e68d21aff4,Unknown,2025-01-04 16:49:18+00:00,Bumped to v1.6.1,16,Saturday,5,TRUE,FALSE,FALSE,12,2025-01-04,12,0,0,0,0,0,0,0,FALSE,0,3.2,1,Moderate
+ed0b5d4bf048e379d9e41c089cdfe69e6899f3ac,andrewjhopkins,2025-01-04 16:25:49+00:00,add hacker theme to pearai (#300),16,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+89da7854dd13e01795ca7bd2b1eec85ac984216e,andrewjhopkins,2025-01-04 16:27:28+00:00,"Set default theme to PearAI Dark/Light (#322)
+
+* Set default theme to PearAI Dark/Light
+
+* Undo not needed solarized file changes",16,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,0,0,0,FALSE,0,1.6,1,Low
+67503064fc589769cfb774e9aa8d9dcee20d25c8,ashvinnihalani,2025-01-04 16:28:54+00:00,Setup Environment with Space in Path (#335),16,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+066009890894856b40aacee72b2a51ce7e7c98b9,bandarussr,2025-01-04 14:05:29+00:00,add ExecutionPolicy flag for setup script (#100),14,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+66d457d9a7a7572833081ec27569cd63275c57f7,benleembruggen,2025-01-04 14:15:38+00:00,chore: create update submodules action (#140),14,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0.1,0.1,0.1,,0,0,FALSE,0,1.6,1,Low
+d1a5dbc1c099884f44d49091b8a8bcb8fd883a8e,charlwillia6,2025-01-04 16:49:35+00:00,"Renames application to PearAI (#148)
+
+Updates application name and related references throughout the codebase to reflect the rebranding to PearAI.  This includes CLI output, application identifiers, and display names.",16,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+0f565eaf5c0779910b28d4aeed05c736a8a89d95,cqdev-co,2025-01-04 14:14:46+00:00,"CI Implementation for Pull Requests  (#149)
+
+* Updated CI/CD
+
+* Updating Windows/Linux
+
+* Updating Windows/Linux CI
+
+* Updating Windows CI
+
+* Updating Windows/Linux
+
+* Updating Linux",14,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0,0,0.166666667,,0,0,FALSE,0,1.6,1,Low
+48ca70337c1441dabb1ba2977eb15f172edc2791,cqdev-co,2025-01-04 14:32:53+00:00,"Fixing CI for macOS run (#160)
+
+* Updated CI/CD
+
+* Updating Windows/Linux
+
+* Updating Windows/Linux CI
+
+* Updating Windows CI
+
+* Updating Windows/Linux
+
+* Updating Linux
+
+* Editing macOS CI
+
+* Added main submodule
+
+---------
+
+Co-authored-by: Nang <nathanang2000@gmail.com>",14,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0.166666667,0.166666667,0.166666667,0,0,0,FALSE,0,1.6,1,Low
+76f153e0c01e1a4f76caca8846822e2f0486a776,cqdev-co,2025-01-04 16:09:48+00:00,"CI/CD Fixes (#216)
+
+* Updating CI/CD
+
+* Updating CI/CD and including SM
+
+* Updating Electron
+
+* Updating Actions
+
+* More Updates
+
+* More Updates
+
+* Updating CI/CD commenting out anything related to Electron
+
+* Updating CI/CD
+
+* Linux changes
+
+* Updating CI/CD",16,Saturday,5,TRUE,FALSE,FALSE,3,2025-01-04,3,0,0.333333333,0.333333333,0.166666667,0.166666667,0,0,FALSE,0,1.6,1,Low
+0bae9fd991bfde139eee84295b69d5ac747e6f92,dependabot[bot],2025-01-04 14:12:45+00:00,"Bump toshimaru/auto-author-assign from 2.1.0 to 2.1.1 (#155)
+
+Bumps [toshimaru/auto-author-assign](https://github.com/toshimaru/auto-author-assign) from 2.1.0 to 2.1.1.
+- [Release notes](https://github.com/toshimaru/auto-author-assign/releases)
+- [Changelog](https://github.com/toshimaru/auto-author-assign/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/toshimaru/auto-author-assign/compare/v2.1.0...v2.1.1)
+
+---
+updated-dependencies:
+- dependency-name: toshimaru/auto-author-assign
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",14,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+0da7286cf22f7121b6d7d7a7e6a1b7cb7883450f,dependabot[bot],2025-01-04 14:30:14+00:00,"Bump actions/cache from 3 to 4 (#162)
+
+Bumps [actions/cache](https://github.com/actions/cache) from 3 to 4.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v3...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",14,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,0,0,0,FALSE,0,1.6,1,Low
+2d5f6daadb7b5f39ee1b633e04d43030ddb941d2,dscreet,2025-01-04 16:02:27+00:00,new rounded icons (#207),16,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0.136363636,0.136363636,0.136363636,,0,0,FALSE,0,1.6,1,Low
+29190c8c8fb563dca510940326723d139d089f2b,dscreet,2025-01-04 16:02:47+00:00,"windows rounded ico (#209)
+
+* new rounded icons
+
+* rounded ico as well",16,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0.136363636,0.136363636,0.136363636,0.136363636,0,0,FALSE,0,1.6,1,Low
+5d0c6af4f1661b63d3b610b0e3f1b43ede11669e,eli-front,2025-01-04 16:46:47+00:00,"fix: changed ""Visual Studio Code"" to ""PearAI"" in theme notification prompt (#116)",16,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+4bb0d8a26ad78fc25e77799ae3dfbc3edaff272c,gedeondoescode,2025-01-04 13:59:11+00:00,"Allow Pear to build on Windows (#97)
+
+* reconfigure install script for new submodule
+
+* Remove redundant install-dependencies.ps1 command
+
+* explicitly specify submodule branch",13,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,-0.031818182,0.031818182,-0.015909091,,0,0,FALSE,0,1.6,1,Low
+3084ca6efb47dfa022f08a406badc3f9b0950036,gedeondoescode,2025-01-04 14:04:27+00:00,Enable Visual Studio Marketplace gallery (#111),14,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,-0.015909091,-0.031818182,0,0,FALSE,0,1.6,1,Low
+ecbb59e2d61996ee09b979e7f7521184cb24edd8,happinyz,2025-01-04 12:23:54+00:00,"Implement new shortcut `Shift+Cmd+L` for opening chat (#66)
+
+* Implement new shortcut for opening chat
+
+* formatting
+
+* Doc/function rename
+
+---------
+
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>",12,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0.136363636,0.136363636,0.136363636,,0,0,FALSE,0,1.6,1,Low
+5d7f64192cb1a80bc2597d936e8da91b1fd1ab7d,jpan8866,2025-01-04 16:14:29+00:00,"fix: #262 prioritize pearai commands (#264)
+
+* fix: #262 prioritize pearai commands
+
+* fix: update priority order and change test case default chord
+
+* fix: use keymode.shift",16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,,0,0,FALSE,0,3.2,1,Moderate
+818536e5759e530dd702cdfbc2719d7ac229fa03,jpan8866,2025-01-04 16:33:04+00:00,"Update CONTRIBUTING.md
+
+update packaging guide",16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+af2ee687a85ffc475bf07eb4363d41700072bf07,jpan8866,2025-01-04 16:33:17+00:00,"Update CONTRIBUTING.md
+
+update packaging info",16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+83d9712374076e8eb2d27498b22d4cea4c80c4ce,jpan8866,2025-01-04 16:33:37+00:00,Update CONTRIBUTING.md,16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+7af4df854d866d1270bdd3d083aae9d882ea7786,jpan8866,2025-01-04 16:38:23+00:00,Handle overlay integration shortcuts (#84),16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+627453862d41be853e8da44e9fa4dbe248142c93,jpan8866,2025-01-04 16:43:42+00:00,Default close sidebar for new window (#98),16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0.136363636,0.136363636,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+554c798bfab103a03dd02206edaa2b233617b08b,jpan8866,2025-01-04 16:44:52+00:00,"highlight cmd i onboarding (#105)
+
+* WIP: Walkthrough changes (#236)
+
+* Added walkthrough progress
+
+* Added progress for walkthrough
+
+* Added todo
+
+* enable editorInsets for inline chat (#253)
+
+* Fix .gitmodules
+
+* Update code.sh
+
+* update submodule to latest tip (#260)
+
+* fix: #262 prioritize pearai commands (#264)
+
+* fix: #262 prioritize pearai commands
+
+* fix: update priority order and change test case default chord
+
+* fix: use keymode.shift
+
+* Fixed code version
+
+* feat: docs and newchat shortcut on titlebar (#266)
+
+* feat: docs and newchat shortcut on titlebar
+
+* typo
+
+* Update README.md (#276)
+
+* Shortcut change to resize chat  on the app side (#279)
+
+* Shortcut change to resize chat  on the app side
+
+* Removed test related console log
+
+* Updated splitEditor shortcut
+
+* update icon and watermark (#278)
+
+* watermarks update
+
+* add shortcuts to watermark
+
+* titlebar icon change
+
+* fix walkthrough
+
+* Added product (#285)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* set quality:stable (#267)
+
+* update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule (#228)
+
+* update MacOS example  in CONTRIBUTING.md file: Packaging step 3 - integrate the submodule
+
+* fix constants CAP
+
+* PearAI main app welcome page gif fixed (#286)
+
+* Update media paths for welcome page GIFs and GIF themselves.
+
+* upload two gifs first
+
+* upload one gif first
+
+* push again
+
+* Fixed walk through (#288)
+
+* Added imports for gif
+
+* Added png
+
+* Added typo fix
+
+* Added png
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* Added to readme (#295)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+
+* add hacker theme to pearai (#300)
+
+* Update README.md
+
+* Set default theme to PearAI Dark/Light (#322)
+
+* Set default theme to PearAI Dark/Light
+
+* Undo not needed solarized file changes
+
+* Added auto-updating working client-side (#340)
+
+* Added updating working
+
+* Removed configs
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Updated wording (#341)
+
+* Added updating working
+
+* Removed configs
+
+* Added pearAI online services
+
+* Added pearAI online services
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Setup Environment with Space in Path (#335)
+
+* Added v1.1.0 (#344)
+
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+
+* Bumped to v1.2.0
+
+* Update README.md
+
+* patch-wsl (add vscode commit) (#348)
+
+* Update README.md
+
+* If you are looking for commit history, read this please
+
+* Updated to v1.3.0
+
+* add pear version in about
+
+* Update CONTRIBUTING.md
+
+update packaging guide
+
+* Update CONTRIBUTING.md
+
+update packaging info
+
+* Update CONTRIBUTING.md
+
+* Git submodule commit update (#66)
+
+* Bumped to v1.4.0
+
+* PearAI Overlay (#67)
+
+* PearAI Overlay
+
+* Uncomment layout
+
+* Remove comment
+
+* Prevent overlay open on every startup + background default color
+
+* Fix overlay bug
+
+* Border radius
+
+* Bumped to v1.4.1
+
+* Fix overlay popping up for half a second at startup (#77)
+
+* Console logs for debugging trace of overlay startup
+
+* Revert ""Console logs for debugging trace of overlay startup""
+
+This reverts commit 70fa3bc021bcac48bbd4a387f0c1bc60ff9c4d27.
+
+* Fix overlay appearing for half a second on startup
+
+* Bumped versions (#80)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* Handle overlay integration shortcuts (#84)
+
+* feat: new window watermark (#87)
+
+* Added darken and click outside overlay. todo for not closing
+
+* Added min for the auxbar (#94)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* feat: overlay-lock (#92)
+
+* Added remove release notes (#96)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>
+
+* remove unused vars (#97)
+
+* Bumped to v1.4.4
+
+* Default close sidebar for new window (#98)
+
+* Add highlight of quickinput during cmd+i step
+
+* clean up
+
+* package.json
+
+* remove transition
+
+---------
+
+Co-authored-by: Nang <nathanang2000@gmail.com>
+Co-authored-by: Himanshu <him.speedo@gmail.com>
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>
+Co-authored-by: Maximiliano Farfan <72162955+MaxFSP@users.noreply.github.com>
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Brian <brian7149@gmail.com>
+Co-authored-by: Andrew Hopkins <ahopkins0929@gmail.com>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>
+Co-authored-by: Ashvin Nihalani <ashvin.nihalani@gmail.com>
+Co-authored-by: nang-dev <contactnang88@gmail.com>",16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0.177511962,0.177511962,0.034875066,0.136363636,0,0,FALSE,0,3.2,1,Moderate
+20296e276c0717e187afdee87dc2c903db789f5f,jpan8866,2025-01-04 16:47:09+00:00,remove transparent bg for highlight (#124),16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0.177511962,0,0,FALSE,0,3.2,1,Moderate
+d2f91606100dc83e9f6a4f2e21bac6aba59f718d,jpan8866,2025-01-04 16:48:27+00:00,fix editor focus when close overlay (#135),16,Saturday,5,TRUE,FALSE,FALSE,9,2025-01-04,9,0,0,0,0.034875066,0,0,0,FALSE,0,3.2,1,Moderate
+3126ec2337bd6c7649a4c2f5184be5acb6e9e968,jwhitt3r,2025-01-04 12:16:38+00:00,"Fix issues 27 and 30 (#50)
+
+* Fixes the issues highlighted in #27 and fixes the issues within PR #30
+
+* Fixed a sentence to align with Fryingpannns comment
+
+* Changed to support nangs comments
+
+---------
+
+Co-authored-by: Gedeon <hello@gedeondoescode.com>
+Co-authored-by: Nang <nathanang2000@gmail.com>",12,Saturday,5,TRUE,FALSE,FALSE,1,2025-01-04,1,0,0.1,0.1,0.1,,0,0,FALSE,0,1.6,1,Low
+5472c6d26297241c54d18cd2c9cc318f4bbcf30a,nang-dev,2025-01-04 12:18:57+00:00,"Gpt4 turbo preview (#78)
+
+* Added ci
+
+* Excluded when there are only pearai changes
+
+* Changed back name to test
+
+* Excluded extension from hygiene
+
+* Disabled the ci
+
+* Added sh perms
+
+* Added sh perms
+
+* Added sh perms
+
+* Added cache for yarn
+
+* Changed to using turbo preview
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>",12,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,-0.075,0.075,0.037887597,,0,0,FALSE,0.406976744,6,-1,Moderate
+8a2b81cee034018001fe974153a4ee0dddff30fd,nang-dev,2025-01-04 13:43:12+00:00,Added instructions for mac,13,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,-0.075,0,0,FALSE,0.406976744,4,1,Moderate
+2fab0111abdb69eebbf51837d0a2a162acf24ccc,nang-dev,2025-01-04 13:46:08+00:00,Removed husky,13,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+fa093dc522bcc5aeb3e0f1a056806c82b25da09a,nang-dev,2025-01-04 13:52:48+00:00,"Updated scripts (#89)
+
+* Updated scripts
+
+* Added build.sh",13,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+240d05c5bb8c2979007022c8d00b8a36ccf1f019,nang-dev,2025-01-04 13:57:30+00:00,"Continue integration (#95)
+
+* Added build extension to code.sh
+
+* Added install and run scripts
+
+* Fixed node version
+
+* Added final contribuing changes
+
+* Changed back to main
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>",13,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0.066666667,0.066666667,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+f832da2124a63095f2c4c60259cf3baefbc8db9c,nang-dev,2025-01-04 14:03:42+00:00,"Added packaging instructions working (#103)
+
+* Added contributing changes
+
+* Added product.json
+
+* Changed README
+
+* Changed contributing
+
+---------
+
+Co-authored-by: Duke Pan <59063950+Fryingpannn@users.noreply.github.com>",14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0.066666667,0,0,FALSE,0.406976744,4,1,Moderate
+9cf4e117b70c99bd0a56dc2e2c3a7b66ad57c607,nang-dev,2025-01-04 14:09:37+00:00,"Added more pearai rename (#123)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>",14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0.5,0.5,0.037887597,0,0,0,FALSE,0.406976744,6,-1,Moderate
+559b34e0331915495033131f209fc6fbaf66c43e,nang-dev,2025-01-04 14:10:23+00:00,Update node version,14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0.5,0,0,FALSE,0.406976744,4,1,Moderate
+0d448356ee6fafb8593866677aae64ecdd37b405,nang-dev,2025-01-04 14:11:43+00:00,Edit output in setup-environment.sh (#136),14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+312d5f27dadafa356b8dfe138ae703b2f7a6f951,nang-dev,2025-01-04 14:15:17+00:00,Update README.md to include contributors up until June 5th 2024,14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+ea0468889471d7f4236c2d024376d44a617d48c5,nang-dev,2025-01-04 14:17:53+00:00,Added to packaging (#167),14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+3319dff41e969de442c378a27eda794254a36aa2,nang-dev,2025-01-04 14:21:04+00:00,"Pick up latest TS for building VS Code (#214171) (#168)
+
+Co-authored-by: Matt Bierner <matb@microsoft.com>",14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0.5,0.5,0.037887597,0,0,0,FALSE,0.406976744,6,-1,Moderate
+08efc9237dbe08fb4a775cec723ebfe862bedd92,nang-dev,2025-01-04 14:31:37+00:00,"Added for v0.0.1 (#175)
+
+* Added for v0.0.1
+
+* Added monaco",14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0.5,0,0,FALSE,0.406976744,4,1,Moderate
+c0daa684f35e56602eeb7cc405f66b9691af83f8,nang-dev,2025-01-04 14:32:33+00:00,Update CONTRIBUTING.md,14,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+ff59d0b6ddb265f9a63fff1a1c52e0b989e024f9,nang-dev,2025-01-04 15:58:42+00:00,Added capitalization to walkthrough (#184),15,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+e04321252652eb6b84b20e45b51557451dc0bea0,nang-dev,2025-01-04 16:00:23+00:00,"Added contributing revamp (#198)
+
+* Added contributing revamp
+
+* Added TOC",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+20b9feb3193854dc103d201c75a643bd672b39e8,nang-dev,2025-01-04 16:00:47+00:00,Added app (#199),16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+24095d4a6148cef5aa30c9f9bdadc486ceffa4cd,nang-dev,2025-01-04 16:01:36+00:00,Added vscode product.json (#203),16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+631a8a94868ddbc2c1c7cd1606666010da178853,nang-dev,2025-01-04 16:03:06+00:00,Added working code.sh and packaging (#220),16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+878a1866039cf230ea9ff63182b541da654be169,nang-dev,2025-01-04 16:04:55+00:00,"V0.0.2 release (#224)
+
+* Added contributing changes
+
+* v0.0.2",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+22ba45874d23ad0a0f07e5d140835998dd669fc7,nang-dev,2025-01-04 16:08:21+00:00,"Fixed setup issues (#248)
+
+* Added rename
+
+* Added rename",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0.1,0.1,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+f23a1a4d4387fd1835ee32364f5a763f28bf476c,nang-dev,2025-01-04 16:12:48+00:00,"WIP: Walkthrough changes (#236)
+
+* Added walkthrough progress
+
+* Added progress for walkthrough
+
+* Added todo",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0.1,0,0,FALSE,0.406976744,4,1,Moderate
+63e1abc56c68fb989e88992a8e1fb0d9acaf4db0,nang-dev,2025-01-04 16:13:10+00:00,enable editorInsets for inline chat (#253),16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+6ddfdbcac3d2ee7139ccc8aa095b627185ddabca,nang-dev,2025-01-04 16:13:29+00:00,Fix .gitmodules,16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+666a244f86d1af224eb2b8a525cd803431293a99,nang-dev,2025-01-04 16:13:50+00:00,Update code.sh,16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+295e226592fd3f7bb9eba08c4bdeb101f1ec600e,nang-dev,2025-01-04 16:24:04+00:00,"Added product (#285)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+f20b9fb59fb906eda4bf5e8c10ffdca4b3b54f0b,nang-dev,2025-01-04 16:25:15+00:00,"Fixed walk through (#288)
+
+* Added imports for gif
+
+* Added png
+
+* Added typo fix
+
+* Added png
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0.1,0.1,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+c433680c8ee28af8f47b542370c12e0830ffc335,nang-dev,2025-01-04 16:25:29+00:00,"Added to readme (#295)
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0.1,0,0,FALSE,0.406976744,4,1,Moderate
+1ecc184442c7a5e072591225ceb92e745432744d,nang-dev,2025-01-04 16:28:10+00:00,"Added auto-updating working client-side (#340)
+
+* Added updating working
+
+* Removed configs
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+495c994257b2e1097d29884510bc12a057266c48,nang-dev,2025-01-04 16:28:29+00:00,"Updated wording (#341)
+
+* Added updating working
+
+* Removed configs
+
+* Added pearAI online services
+
+* Added pearAI online services
+
+---------
+
+Co-authored-by: Nathan A <nang@Nathans-MacBook-Pro-8.local>
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+3e009246d042a85dd3469dc5b466656c06f0ca65,nang-dev,2025-01-04 16:29:21+00:00,"Added v1.1.0 (#344)
+
+Co-authored-by: Nathan A <nang@nathans-mbp-8.mynetworksettings.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+6104e4113b122c2b5a4a574e68e7bb7fa2db223f,nang-dev,2025-01-04 16:37:58+00:00,"Bumped versions (#80)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+1f41ba4a62955f1f80a1df33983725e83b665a44,nang-dev,2025-01-04 16:41:05+00:00,"Added min for the auxbar (#94)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+a2feed770d53659f939ca604e24b1d8b0d96abff,nang-dev,2025-01-04 16:41:38+00:00,"Added remove release notes (#96)
+
+Co-authored-by: nang-dev <contactnang88@gmail.com>",16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+d6458ac2caba32b8e0b14023db299ec9c59d2683,nang-dev,2025-01-04 16:49:52+00:00,Fix product json,16,Saturday,5,TRUE,FALSE,FALSE,86,2025-01-04,35,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4,1,Moderate
+26ca776520915b46a730c7798b9728de4caf7475,nang-dev,2025-01-16 17:26:19+00:00,Added submodule,17,Thursday,3,FALSE,FALSE,FALSE,86,2025-01-16,3,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,0.8,1,Low
+1feef3b45a93bd053bae763c87263ffa96b20551,nang-dev,2025-01-16 17:50:46+00:00,Successful code.sh without extension,17,Thursday,3,FALSE,FALSE,FALSE,86,2025-01-16,3,9.953223933,0.75,0.75,0.037887597,0,0,0,TRUE,0.406976744,2.8,-1,Low
+a0affa19264a582766cf697356793ff603249164,nang-dev,2025-01-16 22:51:24+00:00,Remove pearai-extension,22,Thursday,3,FALSE,TRUE,TRUE,86,2025-01-16,3,9.953223933,0,0,0.037887597,0.75,0,0,TRUE,0.406976744,5.2,-1,Moderate
+d5e4f740ea17e63980e27d79c900b93173bc1eb2,nang-dev,2025-01-17 05:16:37+00:00,Bumped to v1.7.0,5,Friday,4,FALSE,TRUE,TRUE,86,2025-01-17,2,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,3.2,1,Moderate
+16b161f539b1cf7ab0aa5ec039075f6d366d6a79,nang-dev,2025-01-17 19:43:57+00:00,"Update update wording (#163)
+
+* Fixed update words
+
+* Fixed update words",19,Friday,4,FALSE,FALSE,TRUE,86,2025-01-17,2,9.953223933,0.1,0.1,0.037887597,0,0,0,TRUE,0.406976744,0.8,1,Low
+8432bb2bd52298b13bfcab7106f4e3f2f5d45ed4,nang-dev,2025-01-22 03:29:47+00:00,"Added sig handle naive (#164)
+
+* Added sig naive
+
+* Added sig patch",3,Wednesday,2,FALSE,TRUE,TRUE,86,2025-01-22,2,9.953223933,-0.3,0.3,0.037887597,0.1,0,0,TRUE,0.406976744,5.2,-1,Moderate
+b611fd2a16caf1cd81d61eb55ee2eb3b46b4fd1c,nang-dev,2025-01-22 22:03:21+00:00,"Command center fixes (#165)
+
+* Added command center fix
+
+* fixed",22,Wednesday,2,FALSE,TRUE,TRUE,86,2025-01-22,2,9.953223933,-0.033333333,0.033333333,0.037887597,-0.3,1,1,TRUE,0.406976744,5.2,-1,Moderate
+dac862fe59857b3b379f528bd7291e7d07de0d97,nang-dev,2025-02-11 05:28:48+00:00,aux bar height fixes,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,-0.033333333,0,1,TRUE,0.406976744,4.8,1,Moderate
+a9cecb0102bf6c30899af0309251b2e640d5ef84,nang-dev,2025-02-11 05:28:48+00:00,fixes,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,1,TRUE,0.406976744,4.8,1,Moderate
+d18ebbf5132f8876a77f344ffe7602dcb4f885a4,nang-dev,2025-02-11 05:28:48+00:00,move to secondary sidebar,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,-0.3,0.3,0.037887597,0,0,0,TRUE,0.406976744,6.8,-1,High
+d9e739d18f7452087fc1660946a1d46888244daf,nang-dev,2025-02-11 05:28:48+00:00,fix composite bar position to default,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,-0.3,0,0,TRUE,0.406976744,4.8,1,Moderate
+218bf177f159c073708c1cdc181da8ec532ef60a,nang-dev,2025-02-11 05:28:48+00:00,set view commands,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+2c69836b9903d1e46a05b849445d33cc8ef89490,nang-dev,2025-02-11 05:28:48+00:00,fixes 2,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+1505ffd65d49d605356d66fbe286e46c76e06a2e,nang-dev,2025-02-11 05:28:48+00:00,fixes,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+f8ddbc538f3c531b9729658e2081ca020b543d4f,nang-dev,2025-02-11 05:28:48+00:00,progress,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+1409920705dd20ebb5448209a48f9ecca695b533,nang-dev,2025-02-11 05:28:48+00:00,Fixed ranodm workds,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0.1,0.1,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+f9928cb417d49ed46cd91cea5057036fc23ba43f,nang-dev,2025-02-11 05:28:48+00:00,Fixed whitelisting,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0.1,0.1,0.037887597,0.1,0,0,TRUE,0.406976744,4.8,1,Moderate
+ad2871223b3df428c54fdaf2cd36eef852fed704,nang-dev,2025-02-11 05:28:48+00:00,Whitelisted pearai-roo-cline,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0.1,0,0,TRUE,0.406976744,4.8,1,Moderate
+6fd2767afd63647fbdcacf75ce98a6ec242e14c6,nang-dev,2025-02-11 05:28:48+00:00,progress,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+c382454f63690d861effef89e3e0fecf2f0f99bf,nang-dev,2025-02-11 05:28:48+00:00,Linked submodule,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+3ad2ccda5207c63caaf6e7f35e57e4f159c1b163,nang-dev,2025-02-11 05:28:48+00:00,Added renaming to work with submodule pr,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+0d1eb8d63b2fca7e967efe7475834ca382656877,nang-dev,2025-02-11 05:28:48+00:00,"Make Aux bar exclusive to PearAI extensions (#181)
+
+* Working no move
+
+* Working register redirect",5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+39e362fe284bd2bdc9be630583fa02319084aeb7,nang-dev,2025-02-11 05:28:48+00:00,Fixed one rename,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0.1,0.1,0.037887597,0,0,0,TRUE,0.406976744,4.8,1,Moderate
+29ae77d61431d3c246d9068f6b056978d84368e5,nang-dev,2025-02-11 05:28:48+00:00,Renamed secondary to pearai (#178),5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,-0.3,0.3,0.037887597,0.1,0,0,TRUE,0.406976744,6.8,-1,High
+bd0cc02638a2d5b4fab0eaa9c856f179638ea9e8,nang-dev,2025-02-11 05:28:48+00:00,progress,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-02-11,24,9.953223933,0,0,0.037887597,-0.3,0,0,TRUE,0.406976744,4.8,1,Moderate
+ecb663d79c59a92e5cd5b4c9ddf8bc87c41f6eb7,nang-dev,2025-02-11 17:35:04+00:00,borders,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,2.4,1,Low
+2d0390d658103b09e1042063d809466b6391b9af,nang-dev,2025-02-11 17:35:04+00:00,more,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0.5,0.5,0.037887597,0,0,0,TRUE,0.406976744,4.4,-1,Moderate
+1cf2baa60b1c30d541a9ac8a205f535f8b013eef,nang-dev,2025-02-11 17:35:04+00:00,more,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0.5,0.5,0.037887597,0.5,0,0,TRUE,0.406976744,4.4,-1,Moderate
+91de8d3ecb0d60a7566cc4790c7e1e3222909613,nang-dev,2025-02-11 17:35:04+00:00,more,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0.5,0.5,0.037887597,0.5,0,0,TRUE,0.406976744,4.4,-1,Moderate
+9f87e0d212402b63fe294fe81837ff7146153f82,nang-dev,2025-02-11 17:35:04+00:00,dock ui fixes,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0.5,0,0,TRUE,0.406976744,2.4,1,Low
+bcd1f34e22c613a4ebc05d4a1507abb26c581ae7,nang-dev,2025-02-11 17:38:32+00:00,Added creator click,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-02-11,24,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,2.4,1,Low
+81a2fbd55bf4ff8409261f28029579fb8c2eb6bf,nang-dev,2025-02-21 05:27:55+00:00,Added sync progress,5,Friday,4,FALSE,TRUE,TRUE,86,2025-02-21,2,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,3.2,1,Moderate
+f4c19dbb720e64a77283f146577505893c914783,nang-dev,2025-02-21 05:27:55+00:00,Fixed caps,5,Friday,4,FALSE,TRUE,TRUE,86,2025-02-21,2,9.953223933,0.1,0.1,0.037887597,0,0,0,FALSE,0.406976744,3.2,1,Moderate
+2ea96bfcd2b8e5f79df5473202029b1da5a65548,nang-dev,2025-02-27 23:27:41+00:00,Fix PearAI inventory search icon container width,23,Thursday,3,FALSE,TRUE,TRUE,86,2025-02-27,2,9.953223933,0,0,0.037887597,0.1,0,0,FALSE,0.406976744,3.2,1,Moderate
+898530e27561611bb48420bc67814a76f0131a42,nang-dev,2025-02-27 23:30:03+00:00,Changed color,23,Thursday,3,FALSE,TRUE,TRUE,86,2025-02-27,2,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,3.2,1,Moderate
+a406a6b9920eb68b07ef64b4db8d307668c1dae0,nang-dev,2025-02-28 02:31:25+00:00,Fixed Roo Code,2,Friday,4,FALSE,TRUE,TRUE,86,2025-02-28,2,9.953223933,0.1,0.1,0.037887597,0,0,0,FALSE,0.406976744,5.2,-1,Moderate
+7221baf800acfcc952777b38d3544c07feab257d,nang-dev,2025-02-28 14:44:17+00:00,Bumped to v1.8.1,14,Friday,4,FALSE,FALSE,FALSE,86,2025-02-28,2,9.953223933,0,0,0.037887597,0.1,0,0,FALSE,0.406976744,0.8,1,Low
+c41cd186c34c11ec459cd44977887ac0515f22a2,nang-dev,2025-03-06 21:10:06+00:00,Bumped to v1.8.3,21,Thursday,3,FALSE,FALSE,TRUE,86,2025-03-06,1,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,0.8,1,Low
+d21c0988724f2a6f0b631a2c8f1b95edc3462e42,nang-dev,2025-03-11 05:59:58+00:00,Bumped to v1.8.4,5,Tuesday,1,FALSE,TRUE,TRUE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,6.8,-1,High
+2732a07f6ac4befa5f27dbeb19ac60e275179ee7,nang-dev,2025-03-11 17:22:10+00:00,Working,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,2.4,1,Low
+b3472a57630540a21d0c4ccf6aca4b960c40befd,nang-dev,2025-03-11 17:22:10+00:00,Working,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,2.4,1,Low
+556a9af38acc3eca7d2e26e1f66849b464d05769,nang-dev,2025-03-11 17:22:10+00:00,Working,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,2.4,1,Low
+96e335ec3b11d821d7dfaa55d16705c1734dab2a,nang-dev,2025-03-11 17:22:10+00:00,Progress,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,2.4,1,Low
+af0cbfed6da23e9cdb649037d96546ab68785a12,nang-dev,2025-03-11 17:22:10+00:00,Removed print,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-11,6,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,2.4,1,Low
+d100d481646976f6b8fea476093bf898e02faaca,nang-dev,2025-03-13 21:28:56+00:00,Update README.md,21,Thursday,3,FALSE,FALSE,TRUE,86,2025-03-13,1,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,0.8,1,Low
+ccc849cad744cf3135133db7829454d86454d990,nang-dev,2025-03-18 17:51:50+00:00,Working,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-18,3,9.953223933,0,0,0.037887597,0,0,0,TRUE,0.406976744,0.8,1,Low
+5c89ec7d6725322cd285cb0dd03ae848dca04708,nang-dev,2025-03-18 17:51:50+00:00,Added light and dark modern,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-18,3,9.953223933,0.15,0.15,0.037887597,0,0,0,TRUE,0.406976744,0.8,1,Low
+427a9ee64d6dc01f6e3d2a0110f1200a2989765d,nang-dev,2025-03-18 17:51:50+00:00,Added light and dark modern,17,Tuesday,1,FALSE,FALSE,FALSE,86,2025-03-18,3,9.953223933,0.15,0.15,0.037887597,0.15,0,0,TRUE,0.406976744,0.8,1,Low
+885e65d5a60765f5aa4db8e5f2e2321786bf0db6,nang-dev,2025-03-19 23:06:34+00:00,feat: setting default theme to dark on startup,23,Wednesday,2,FALSE,TRUE,TRUE,86,2025-03-19,1,9.953223933,-0.15,0.15,0.037887597,0.15,0,0,FALSE,0.406976744,5.2,-1,Moderate
+f4a30f84ac1d58252e7313226e0f98dfb5f2aa08,nang-dev,2025-03-20 21:36:07+00:00,Fix,21,Thursday,3,FALSE,FALSE,TRUE,86,2025-03-20,1,9.953223933,0,0,0.037887597,-0.15,0,0,FALSE,0.406976744,0.8,1,Low
+5c51efd6fe82227c0d3c346eb433401de4719087,nang-dev,2025-03-23 18:42:38+00:00,Added agent,18,Sunday,6,TRUE,FALSE,TRUE,86,2025-03-23,1,9.953223933,0,0,0.037887597,0,0,0,FALSE,0.406976744,4.4,-1,Moderate
+7be53c79842ec27822258af7290fe5c4f837ea2c,timknappe,2025-01-04 14:13:10+00:00,"Update CONTRIBUTING.md (#145)
+
+Added Rust (Cargo) to the necessary tools",14,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,,0,0,FALSE,0,1.6,1,Low
+80feb5d1e7019335dffa0c3c328aae3206af83b2,timknappe,2025-01-04 15:58:23+00:00,Clarified Walkthrough label (#183),15,Saturday,5,TRUE,FALSE,FALSE,2,2025-01-04,2,0,0,0,0,0,0,0,FALSE,0,1.6,1,Low
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
